@@ -1,3 +1,4 @@
+npm install puppeteer
 import puppeteer from "puppeteer";
 
 async function main() {
